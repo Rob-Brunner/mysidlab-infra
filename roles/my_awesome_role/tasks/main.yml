@@ -9,6 +9,9 @@
     - wget
     - httpd
     - httpd-tools
+    - nano
+    - nginx
+    - haproxy
 
 # Configure apache
 - name: Ensure httpd is running
